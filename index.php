@@ -38,7 +38,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <img src="img/icone_fisioterapia-uroginegologica.png" alt="cintura feminina" />
                     </picture>
                     <div class="div">
-                        <a href="indexfisio.php">Fisioterapia Uroginecológica</a>
+                        <a href="fisioterapia_uroginecologica.php">Fisioterapia Uroginecológica</a>
                         <p>Fortalecimento dos músculos do aparelho pélvico, trazendo vários benefícios para nossa saúde e ajudando a tratar inúmeras disfunções</p>
                     </div>
                 </div>
@@ -49,7 +49,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <img src="img/icone_raquel-manfroi-nutricao.png" alt="coraçao e garrafa representando nutrição"/>
                     </picture>
                     <div class="div">
-                        <a href="indexnutri.php">Nutrição</a>
+                        <a href="nutricao.php">Nutrição</a>
                         <p>Olheiras, celulite, acne, queda de cabelo, unhas frágeis? A solução é simples e está no seu prato! </p>
                     </div>
                 </div>
@@ -62,7 +62,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <img src="img/icone_raquel-manfroi-rpg.png" alt="figura feminina com massagens nas têmporas" />
                     </picture>
                     <div class="div">
-                        <a href="indexmicro.php">RPG</a>
+                        <a href="rpg.php">RPG</a>
                         <p>O RPG é um método fisioterapêutico que não só corrige lesões como reeducar o paciente sobre como se posicionar de forma correta - e isso é essencial para prevenir novos problemas.</p>
                     </div>
                 </div>
@@ -73,7 +73,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <img src="img/icone_raquel-manfroi-acupuntura.png" alt="agulhas usadas na acupuntura" />
                     </picture>
                     <div class="div">
-                        <a href="indexacup.php">Acupuntura</a>
+                        <a href="acupuntura.php">Acupuntura</a>
                         <p>Se você já ouviu falar em acupuntura, a primeira lembrança que vem a sua mente são as agulhas, não são?! Mas, pode ficar tranquilo, pois essas agulhinhas não doem e só fazem o bem!</p>
                     </div>
                 </div>
@@ -86,7 +86,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <img src="img/icone_raquel-manfroi-dermato-funcional.png" alt="figura feminina com creme" />
                     </picture>
                     <div class="div">
-                        <a href="indexderm.php">Dermato Funcional</a>
+                        <a href="dermato_funcional.php">Dermato Funcional</a>
                         <p>A fisioterapia dermato funcional trata e previne as disfunções do sistema tegumentar e consegue, principalmente, manter a pele saudável, iluminada e rejuvenescida.</p>
                     </div>
                 </div>
@@ -97,7 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <img src="img/icone_raquel-manfroi-psicologia.png" alt="terceira letra do alfabeto grego (psi)"/>
                     </picture>
                     <div class="div">
-                        <a href="indexpsico.php">Psicologia</a>
+                        <a href="psicologia.php">Psicologia</a>
                         <p>A Psicologia é uma ciência fascinante que nos ajuda a viver melhor, encontrando o equilíbrio e a estabilidade em nossa vida.</p>
                     </div>
                 </div>
@@ -110,7 +110,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <img src="img/icone_raquel-manfroi-fonoaudiologia.png" alt="fones de ouvido e nota musical" />
                     </picture>
                     <div class="div">
-                        <a href="indexfono.php">Fonoaudiologia</a>
+                        <a href="fonoaudiologia.php">Fonoaudiologia</a>
                         <p>Você sabia que a fonoaudiologia está relacionada à comunicação? Pois, sim! E, pode estar presente em todas as fases da nossa vida, para proporcionar êxito e qualidade neste aspecto!</p>
                     </div>
                 </div>
@@ -121,7 +121,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <img src="img/icone_raquel-manfroi-hidroterapia.png" alt="piscina de natação" />
                     </picture>
                     <div class="div">
-                        <a href="indexhidro.php">Hidroterapia</a>
+                        <a href="hidroterapia.php">Hidroterapia</a>
                         <p>A hidroterapia é um recurso da fisioterapia que utiliza as propriedades da água na prevenção e no tratamento de diversas patologias.</p>
                     </div>
                 </div>
@@ -134,7 +134,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <img src="img/icone_raquel-manfroi-natacao-infantil.png" alt="toca e óculos de natação" />
                     </picture>
                     <div class="div">
-                        <a href="indexnata.php">Natação Infantil</a>
+                        <a href="natacao-infantil.php">Natação Infantil</a>
                         <p>A natação é a única atividade física que pode ser praticada sem contra indicações! Além de melhorar as funções respiratórias e fisiológicas do organismo…</p>
                     </div>
                 </div>
@@ -145,7 +145,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <img src="img/icone_raquel-manfroi-hidroginastica.png" alt="pessoa nadando" />
                     </picture>
                     <div class="div">
-                        <a href="indexhidroginastica.php">Hidroginástica</a>
+                        <a href="hidroginastica.php">Hidroginástica</a>
                         <p>Que tal escolher a hidroginástica como sua melhor aliada? Além de ser uma atividade física muito prazerosa, ela traz benefícios para a saúde e é indicada para pessoas de qualquer idade. </p>
                     </div>
                 </div>
@@ -158,7 +158,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <img src="img/icone_raquel-manfroi-pilates.png" alt="pessoa se alongando" />
                     </picture>
                     <div class="div">
-                        <a href="indexpila.php">Pilates</a>
+                        <a href="pilates.php">Pilates</a>
                         <p>O pilates não só reabilita, como também corrige más posturas, melhora o condicionamento físico e previne diversas disfunções.</p>
                     </div>
                 </div>
@@ -169,7 +169,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <img src="img/icone_raquel-manfroi-osteopatia.png" alt="pessoa sendo massageada nas costas" />
                     </picture>
                     <div class="div">
-                        <a href="indexosteo.php">Osteopatia</a>
+                        <a href="osteopatia.php">Osteopatia</a>
                         <p>As complicações mais comumente tratadas pela osteopatia são as ciáticas, as lombalgias, dorsalgias, cervicalgias, escoliose, hérnias discais e torcicolos.</p>
                     </div>
                 </div>

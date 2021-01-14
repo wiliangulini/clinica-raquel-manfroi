@@ -13,8 +13,19 @@
         <meta name="author" content="Wilian Gulini" />
         <link rel="stylesheet" href="css/bootstrap.min.css" />
         <link rel="stylesheet" href="css/style-fisio.css" />
+         <!-- Google Tag Manager -->
+         <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WTBHBHF');</script>
+        <!-- End Google Tag Manager -->
     </head>
     <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WTBHBHF"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
         <header>
             <nav class="d-flex justify-content-between align-items-center">
                 <a href="index.php">
@@ -32,19 +43,19 @@
                            Especialidades
                         </a>
                         <div class="dropdown-menu backitem" aria-labelledby="dropdownMenuLink">
-                            <a class="dropdown-item" href="indexfisio.php">Uroginecológica</a>
-                            <a class="dropdown-item" href="indexrpg.php">RPG</a>
-                            <a class="dropdown-item" href="indexderm.php">Dermato Funcional</a>
-                            <a class="dropdown-item" href="indexfono.php">Fonoaudiologia</a>
-                            <a class="dropdown-item" href="indexterapia.php">Terapia Ocupacional</a>
-                            <a class="dropdown-item" href="indexnutri.php">Nutrição</a>
-                            <a class="dropdown-item" href="indexacup.php">Acupuntura</a>
-                            <a class="dropdown-item" href="indexpila.php">Pilates</a>
-                            <a class="dropdown-item" href="indexnata.php">Natação Infantil</a>
-                            <a class="dropdown-item" href="indexhidroginastica.php">Hidroginástica</a>
-                            <a class="dropdown-item" href="indexhidro.php">Hidroterapia</a>
-                            <a class="dropdown-item" href="indexosteo.php">Osteopatia</a>
-                            <a class="dropdown-item" href="indexpsico.php">Psicologia</a>
+                            <a class="dropdown-item" href="fisioterapia_uroginecologica.php">Uroginecológica</a>
+                            <a class="dropdown-item" href="rpg.php">RPG</a>
+                            <a class="dropdown-item" href="dermato_funcional.php">Dermato Funcional</a>
+                            <a class="dropdown-item" href="fonoaudiologia.php">Fonoaudiologia</a>
+                            <a class="dropdown-item" href="terapia_ocupacional.php">Terapia Ocupacional</a>
+                            <a class="dropdown-item" href="nutricao.php">Nutrição</a>
+                            <a class="dropdown-item" href="acupuntura.php">Acupuntura</a>
+                            <a class="dropdown-item" href="pilates.php">Pilates</a>
+                            <a class="dropdown-item" href="natacao-infantil.php">Natação Infantil</a>
+                            <a class="dropdown-item" href="hidroginastica.php">Hidroginástica</a>
+                            <a class="dropdown-item" href="hidroterapia.php">Hidroterapia</a>
+                            <a class="dropdown-item" href="osteopatia.php">Osteopatia</a>
+                            <a class="dropdown-item" href="psicologia.php">Psicologia</a>
                         </div>
                     </div>
                     <a href="convenio.php">Convênios</a>

@@ -22,7 +22,7 @@
                         <div class="d-flex flex-column">
                             <p class="h3">Telefone/Email</p>
                             <a href="tel:554626040066"><p class="number">(46) 2604-0066</p></a>
-                            <a href="http://wpp-redirect.herokuapp.com/go/?p=5546991070066&amp;m=Ol%c3%a1!">(46) 99107-0066 (Whats)</a>
+                            <a class="btn-whats" href="http://wpp-redirect.herokuapp.com/go/?p=5546991070066&amp;m=Ol%c3%a1!">(46) 99107-0066 (Whats)</a>
                             <a href="mailto:clinica@raquelmanfroi.com.br"><p>clinica@raquelmanfroi.com.br</p></a>
                         </div>
                     </div>

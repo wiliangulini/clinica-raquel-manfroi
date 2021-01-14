@@ -11,10 +11,9 @@
                             <i class="fas fa-angle-right"></i>
                         </div>
                         <div class="link">
-                            <a href="raquel-manfroi-clinica-de-fisioterapia-especializada/index.html"></i>Home</a>
-                            <a href="#">Sobre</a>
-                            <a href="#">Especialidades</a>
-                            <a href="#">Blog</a>
+                            <a href="index.php"></i>Home</a>
+                            <a href="index-sobre.php">Sobre</a>
+                            <a href="convenio.php">Convênios</a>
                         </div>
                         
                     </div>
@@ -32,7 +31,7 @@
                     <h6>Telefone / E-mail</h6>
                     <div class="footer-txt">
                         <a href="tel:554626040066">(46) 2604-0066</a>
-                        <a href="http://wpp-redirect.herokuapp.com/go/?p=5546991070066&amp;m=Ol%c3%a1!">(46) 99107-0066 (Whats)</a>
+                        <a class="btn-whats" href="http://wpp-redirect.herokuapp.com/go/?p=5546991070066&amp;m=Ol%c3%a1!">(46) 99107-0066 (Whats)</a>
                         <a href="mailto:clinica@raquelmanfroi.com.br">clinica@raquelmanfroi.com.br</a>
                     </div>
                 </div>
