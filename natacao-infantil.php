@@ -7,7 +7,6 @@
                         <p>
                             A natação é uma das melhores atividades para o seu filho fazer. Além de melhorar a capacidade cardiorrespiratória, agilidade, força e velocidade, ainda ajuda a desenvolver a coordenação, o equilíbrio e as habilidades psicomotoras.
                         </p>
-                        <a href="#" class="btn btn-rosa">Agende uma visita!</a>
                     </div>
                     <div class="col-sm-7 col-md-7">
                         <picture>
@@ -22,6 +21,9 @@
                         </picture>
                     </div>
                 </div>
+            </div>
+            <div class="btn d-flex justify-content-center">
+                <a id="natacao" href="http://wpp-redirect.herokuapp.com/go/?p=5546991070066&amp;m=Ol%c3%a1!" class="btn btn-rosa"><i class="fab fa-whatsapp"></i> Agende uma visita!</a>
             </div>
         </section>
         <section class="beneficios">
@@ -38,7 +40,7 @@
                         <source type="image/png" src="img/beneficios-natacao-mobile.png" />
                         <img class="img" src="img/beneficios-natacao-mobile.png" alt="beneficios da natação" />
                     </picture>
-                    <a href="#" class="btn btn-rosa bene">Agende uma visita!</a>
+                    
                 </div>
             </div>
         </section>

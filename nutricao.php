@@ -7,7 +7,6 @@
                 <p>
                     Olheiras, celulite, acne, queda de cabelo, unhas frágeis? A solução é simples e está no seu prato!
                 </p>
-                <a href="#" class="btn btn-rosa">Agende uma visita!</a>
             </div>
             <div class="col-sm-7 col-md-7">
                 <picture>
@@ -22,6 +21,9 @@
                 </picture>
             </div>
         </div>
+    </div>
+    <div class="btn d-flex justify-content-center">
+        <a id="nutricao" href="http://wpp-redirect.herokuapp.com/go/?p=5546991070066&amp;m=Ol%c3%a1!" class="btn btn-rosa"><i class="fab fa-whatsapp"></i> Agende uma visita!</a>
     </div>
 </section>
 <section class="beneficios">
@@ -38,7 +40,6 @@
                 <source type="image/png" src="img/beneficios-nutricao-mobile.png" />
                 <img class="img" src="img/beneficios-nutricao-mobile.png" alt="benefícios da nutrição" />
             </picture>
-            <a href="#" class="btn btn-rosa bene">Agende uma visita!</a>
         </div>
     </div>
 </section>

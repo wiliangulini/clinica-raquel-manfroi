@@ -7,7 +7,6 @@
                         <p>
                             O pilates não só reabilita, como também corrige más posturas, melhora o condicionamento físico e previne diversas disfunções.
                         </p>
-                        <a href="#" class="btn btn-rosa">Agende uma visita!</a>
                     </div>
                     <div class="col-sm-7 col-md-7">
                         <picture>
@@ -22,6 +21,9 @@
                         </picture>
                     </div>
                 </div>
+            </div>
+            <div class="btn d-flex justify-content-center">
+                <a id="pilates" href="http://wpp-redirect.herokuapp.com/go/?p=5546991070066&amp;m=Ol%c3%a1!" class="btn btn-rosa"><i class="fab fa-whatsapp"></i> Agende uma visita!</a>
             </div>
         </section>
         <section class="beneficios">
@@ -38,7 +40,6 @@
                         <source type="image/png" src="img/beneficios-pilates-mobile.png" />
                         <img class="img" src="img/beneficios-pilates-mobile.png" alt="beneficios da pilates" />
                     </picture>
-                    <a href="#" class="btn btn-rosa bene">Agende uma visita!</a>
                 </div>
             </div>
         </section>

@@ -1,5 +1,5 @@
 <?php include "includes/header-esp.php"; ?>
-        <section class="init">
+        <section class="init d-flex justify-content-center">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-5 col-md-5">
@@ -7,7 +7,6 @@
                         <p>
                             O RPG é um método fisioterapêutico que corrige lesões e o paciente sobre como se posicionar de forma correta - e isso é essencial para prevenir novos problemas.
                         </p>
-                        <a href="#" class="btn btn-rosa">Agende uma visita!</a>
                     </div>
                     <div class="col-sm-7 col-md-7">
                         <picture>
@@ -22,6 +21,9 @@
                         </picture>
                     </div>
                 </div>
+            </div>
+            <div class="btn d-flex justify-content-center">
+                <a id="rpg" href="http://wpp-redirect.herokuapp.com/go/?p=5546991070066&amp;m=Ol%c3%a1!" class="btn btn-rosa"><i class="fab fa-whatsapp"></i> Agende uma visita!</a>
             </div>
         </section>
         <section class="beneficios">
@@ -38,7 +40,6 @@
                         <source type="image/png" src="img/beneficios-rpg-mobile.png" />
                         <img class="img" src="img/beneficios-rpg-mobile.png" alt="benefícios do RPG" />
                     </picture>
-                    <a href="#" class="btn btn-rosa bene">Agende uma visita!</a>
                 </div>
             </div>
         </section>

@@ -7,7 +7,6 @@
                         <p>
                             Sua mente está uma confusão e você não está conseguindo entender? A sua solução é a psicologia!
                         </p>
-                        <a href="#" class="btn btn-rosa">Agende uma visita!</a>
                     </div>
                     <div class="col-sm-7 col-md-7">
                         <picture>
@@ -22,6 +21,9 @@
                         </picture>
                     </div>
                 </div>
+            </div>
+            <div class="btn d-flex justify-content-center">
+                <a id="psicologia" href="http://wpp-redirect.herokuapp.com/go/?p=5546991070066&amp;m=Ol%c3%a1!" class="btn btn-rosa"><i class="fab fa-whatsapp"></i> Agende uma visita!</a>
             </div>
         </section>
         <section class="beneficios">
@@ -38,7 +40,6 @@
                         <source type="image/png" src="img/beneficios-psicologia-mobile.png" />
                         <img class="img" src="img/beneficios-psicologia-mobile.png" alt="beneficios da psicologia" />
                     </picture>
-                    <a href="#" class="btn btn-rosa bene">Agende uma visita!</a>
                 </div>
             </div>
         </section>

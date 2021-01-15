@@ -7,7 +7,6 @@
                 <p>
                     A ideia central da Hidroterapia consiste em curar, reabilitar ou trazer mais qualidade de vida para pessoas que sofrem com lesões ou disfunções ortopédicas, vasculares, respiratórias, neurológicas, reumatológicas e até mesmo antes ou depois de determinadas cirurgias.
                 </p>
-                <a href="#" class="btn btn-rosa">Agende uma visita!</a>
             </div>
             <div class="col-sm-7 col-md-7">
                 <picture>
@@ -22,6 +21,9 @@
                 </picture>
             </div>
         </div>
+    </div>
+    <div class="btn d-flex justify-content-center">
+        <a id="hidroterapia" href="http://wpp-redirect.herokuapp.com/go/?p=5546991070066&amp;m=Ol%c3%a1!" class="btn btn-rosa"><i class="fab fa-whatsapp"></i> Agende uma visita!</a>
     </div>
 </section>
 <section class="beneficios">
@@ -38,7 +40,6 @@
                 <source type="image/png" src="img/beneficios-hidroterapia-mobile.png" />
                 <img class="img" src="img/beneficios-hidroterapia-mobile.png" alt="benefícios da hidroterapia" />
             </picture>
-            <a href="#" class="btn btn-rosa bene">Agende uma visita!</a>
         </div>
     </div>
 </section>

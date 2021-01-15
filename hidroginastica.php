@@ -6,8 +6,7 @@
                 <h1>Hidroginástica</h1>
                 <p>
                     Que tal escolher a hidroginástica como sua melhor aliada? Além de ser uma atividade física muito prazerosa, ela traz benefícios para a saúde e é indicada para pessoas de qualquer idade.
-                </p>
-                <a href="#" class="btn btn-rosa">Agende uma visita!</a>
+                </p>         
             </div>
             <div class="col-sm-7 col-md-7">
                 <picture>
@@ -22,6 +21,9 @@
                 </picture>
             </div>
         </div>
+    </div>
+    <div class="btn d-flex justify-content-center">
+        <a id="hidroginastica" href="http://wpp-redirect.herokuapp.com/go/?p=5546991070066&amp;m=Ol%c3%a1!" class="btn btn-rosa"><i class="fab fa-whatsapp"></i> Agende uma visita!</a>
     </div>
 </section>
 <section class="beneficios">
@@ -38,7 +40,7 @@
                 <source type="image/png" src="img/beneficios-hidroginastica-mobile.png" />
                 <img class="img" src="img/beneficios-hidroginastica-mobile.png" alt="benefícios da hidroginástica" />
             </picture>
-            <a href="#" class="btn btn-rosa bene">Agende uma visita!</a>
+            
         </div>
     </div>
 </section>

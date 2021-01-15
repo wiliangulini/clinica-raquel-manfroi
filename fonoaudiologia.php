@@ -7,7 +7,6 @@
                 <p>
                     Você sabia que a fonoaudiologia está relacionada à comunicação? Pois, sim! E, pode estar presente em todas as fases da nossa vida, para proporcionar êxito e qualidade neste aspecto!
                 </p>
-                <a href="#" class="btn btn-rosa">Agende uma visita!</a>
             </div>
             <div class="col-sm-7 col-md-7">
                 <picture>
@@ -22,6 +21,9 @@
                 </picture>
             </div>
         </div>
+    </div>
+    <div class="btn d-flex justify-content-center">
+        <a id="fonoaudiologia" href="http://wpp-redirect.herokuapp.com/go/?p=5546991070066&amp;m=Ol%c3%a1!" class="btn btn-rosa"><i class="fab fa-whatsapp"></i> Agende uma visita!</a>
     </div>
 </section>
 <section class="beneficios">
@@ -38,7 +40,6 @@
                 <source type="image/png" src="img/beneficios-fonoaudiologia-mobile.png" />
                 <img class="img" src="img/beneficios-fonoaudiologia-mobile.png" alt="benefícios do fonoaudiologia" />
             </picture>
-            <a href="#" class="btn btn-rosa bene">Agende uma visita!</a>
         </div>
     </div>
 </section>

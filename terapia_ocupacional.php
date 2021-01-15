@@ -7,7 +7,6 @@
                 <p>
                     É a área responsável por promover a saúde e bem-estar das pessoas com problemas físicos, sensoriais, sociais e motores.
                 </p>
-                <a href="#" class="btn btn-rosa">Agende uma visita!</a>
             </div>
             <div class="col-sm-7 col-md-7">
                 <picture>
@@ -22,6 +21,9 @@
                 </picture>
             </div>
         </div>
+    </div>
+    <div class="btn d-flex justify-content-center">
+        <a id="terapia" href="http://wpp-redirect.herokuapp.com/go/?p=5546991070066&amp;m=Ol%c3%a1!" class="btn btn-rosa"><i class="fab fa-whatsapp"></i> Agende uma visita!</a>
     </div>
 </section>
 <section class="beneficios">
@@ -38,7 +40,6 @@
                 <source type="image/png" src="img/beneficios-terapia-mobile.png" />
                 <img class="img" src="img/beneficios-terapia-mobile.png" alt="benefícios do terapia" />
             </picture>
-            <a href="#" class="btn btn-rosa bene">Agende uma visita!</a>
         </div>
     </div>
 </section>

@@ -51,6 +51,6 @@
     </footer>
         <script src="js/jquery3.5.1.js"></script>
         <script src="js/bootstrap.bundle.min.js"></script>
-        <script src="fontawesome/js/all.js"></script>
+        <script async src="fontawesome/js/all.js"></script>
     </body>
 </html>
